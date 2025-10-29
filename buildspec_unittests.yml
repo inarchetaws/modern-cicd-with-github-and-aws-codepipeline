@@ -13,7 +13,7 @@ reports:
     files:
       - junit.xml
     file-format: JUNITXML
-  codecoverage:
+  codecoverage: 
     files:
       - 'coverage/cobertura-coverage.xml'
     file-format: 'COBERTURAXML'
